@@ -155,7 +155,7 @@ go test ./...
 
 ## 📄 License
 
-MIT © 2025 [Your Name](https://github.com/yourname)
+MIT © 2025 [Bipro Barai](https://github.com/yourname)
 
 ```
 
